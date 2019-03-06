@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>945259EF-C166-4A6B-A79A-ED46B283B66A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>945259EF-C166-4A6B-A79A-ED46B283B66A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>awesomeRN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>awesomeRN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project awesomeRN with scheme awesomeRN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573562400.97910905</real>
+			<key>timeStoppedRecording</key>
+			<real>573562401.87652004</real>
+			<key>title</key>
+			<string>Building project awesomeRN with scheme awesomeRN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>945259EF-C166-4A6B-A79A-ED46B283B66A</string>
+		</dict>
+		<key>AE9BF59E-19DB-4881-AF13-57C43B1643E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE9BF59E-19DB-4881-AF13-57C43B1643E2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>awesomeRN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>awesomeRN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project awesomeRN with scheme awesomeRN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573567092.23298097</real>
+			<key>timeStoppedRecording</key>
+			<real>573567093.20191395</real>
+			<key>title</key>
+			<string>Building project awesomeRN with scheme awesomeRN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AE9BF59E-19DB-4881-AF13-57C43B1643E2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
