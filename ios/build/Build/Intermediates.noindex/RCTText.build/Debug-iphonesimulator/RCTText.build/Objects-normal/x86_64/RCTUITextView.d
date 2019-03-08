@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/wanglei/Documents/awesomeRN/node_modules/react-native/Libraries/Text/RCTUITextView.m \
-  /Users/wanglei/Documents/awesomeRN/node_modules/react-native/Libraries/Text/RCTUITextView.h
+  /Users/wanglei/Documents/React-Native/node_modules/react-native/Libraries/Text/RCTUITextView.m \
+  /Users/wanglei/Documents/React-Native/node_modules/react-native/Libraries/Text/RCTUITextView.h
