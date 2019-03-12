@@ -29,6 +29,7 @@ export default class awesomeRN extends Component {
           Cmd+D or shake for dev menu
         </Text>
       </View>
+      // <text>hello world!</text>
     );
   }
 }

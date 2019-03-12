@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		b6CIVei/m6oyMhqa95gB28Bl0BA=
+		wma3v7ii86w42qcW45qrO4JPgH0=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2763D+TQjpYEKDaFjmzv9Nl5mlg=
+		suJc/YPDOoGac9gaf+MCOeID/W0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -51,19 +51,19 @@
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest.dSYM/Contents/Resources/DWARF/awesomeRNTests</key>
 		<data>
-		k+OtwXveJLx5h+m6ECcoXngeVug=
+		uQjvLSISq8w6X6pPBC/A5BUt5x0=
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/Info.plist</key>
 		<data>
-		t5luPOy3hpucfEHEySr+nS/Px/0=
+		YNdBjXuE6kRSq1ENkZ7wiEl0eT0=
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		7d2/kmFGjmti4JOR5XUUhTDG6PQ=
+		ryG3ic6H/nXT/Mbn6s8/siAZf5k=
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/awesomeRNTests</key>
 		<data>
-		8XBsGOHskkJzyEedQAbvt4Q0n6k=
+		Pe+rnYLI1Y9a/frQ+YBJc4LBB94=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,11 +72,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b6CIVei/m6oyMhqa95gB28Bl0BA=
+			wma3v7ii86w42qcW45qrO4JPgH0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2XMDbBLKRU7pjHBoOjlUMgpIW8qNWpP10h9/lOPXjUk=
+			Sn1Kj8/9GhcRqlVowfPqGY2fakCYWsR4O6E0JBSq25o=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -162,44 +162,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k+OtwXveJLx5h+m6ECcoXngeVug=
+			uQjvLSISq8w6X6pPBC/A5BUt5x0=
 			</data>
 			<key>hash2</key>
 			<data>
-			+dZZUUXnd6rBEYfOpK4w+DiYgHgGlOzDvLRTao5RbtE=
+			l188bNdymSQtuZCBwDUzi+V1XSbA0J271Y77nDnSUd4=
 			</data>
 		</dict>
 		<key>PlugIns/awesomeRNTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t5luPOy3hpucfEHEySr+nS/Px/0=
+			YNdBjXuE6kRSq1ENkZ7wiEl0eT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			N14On04iYTdhxAGIJOsE0QP2rnjUs3fhMYIk0AZDSfs=
+			YV5BvLwb5y+BpbdAlvVfFRQTUjqcbR85cQlK+Rc0FHY=
 			</data>
 		</dict>
 		<key>PlugIns/awesomeRNTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7d2/kmFGjmti4JOR5XUUhTDG6PQ=
+			ryG3ic6H/nXT/Mbn6s8/siAZf5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			MZkVTHMuZUlxiUpZFRjWpGaKrnCwpW/qj2T6HPatcws=
+			1MqTr2lfc0OPYqifWhlTqj7yZW5metmg9plFly9coPQ=
 			</data>
 		</dict>
 		<key>PlugIns/awesomeRNTests.xctest/awesomeRNTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8XBsGOHskkJzyEedQAbvt4Q0n6k=
+			Pe+rnYLI1Y9a/frQ+YBJc4LBB94=
 			</data>
 			<key>hash2</key>
 			<data>
-			f2g7YVEcfC4tvIizIMl6achycVyUSoorV9r4D6+DwCM=
+			7nyLZUPy6jRuHQdtrdz7J63m/ByZtlqVu3Q6tBof51s=
 			</data>
 		</dict>
 	</dict>
