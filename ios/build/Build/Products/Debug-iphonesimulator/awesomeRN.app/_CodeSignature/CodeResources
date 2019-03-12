@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		wma3v7ii86w42qcW45qrO4JPgH0=
+		Kp+gmeX0tAN5t1yRXJuwTlH5m/0=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		suJc/YPDOoGac9gaf+MCOeID/W0=
+		rhk2aF0iyrLjOmQ+8CdOs5c7uxQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -55,15 +55,15 @@
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/Info.plist</key>
 		<data>
-		YNdBjXuE6kRSq1ENkZ7wiEl0eT0=
+		t5luPOy3hpucfEHEySr+nS/Px/0=
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		ryG3ic6H/nXT/Mbn6s8/siAZf5k=
+		7d2/kmFGjmti4JOR5XUUhTDG6PQ=
 		</data>
 		<key>PlugIns/awesomeRNTests.xctest/awesomeRNTests</key>
 		<data>
-		Pe+rnYLI1Y9a/frQ+YBJc4LBB94=
+		hUvynZLdKbyUzKneeF9MOf1aKaQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,11 +72,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wma3v7ii86w42qcW45qrO4JPgH0=
+			Kp+gmeX0tAN5t1yRXJuwTlH5m/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sn1Kj8/9GhcRqlVowfPqGY2fakCYWsR4O6E0JBSq25o=
+			WlgUIi2pQPSvqc0N+WrlCIr5U1miHsdPV/J1ncWnnVA=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -173,33 +173,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YNdBjXuE6kRSq1ENkZ7wiEl0eT0=
+			t5luPOy3hpucfEHEySr+nS/Px/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			YV5BvLwb5y+BpbdAlvVfFRQTUjqcbR85cQlK+Rc0FHY=
+			N14On04iYTdhxAGIJOsE0QP2rnjUs3fhMYIk0AZDSfs=
 			</data>
 		</dict>
 		<key>PlugIns/awesomeRNTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ryG3ic6H/nXT/Mbn6s8/siAZf5k=
+			7d2/kmFGjmti4JOR5XUUhTDG6PQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1MqTr2lfc0OPYqifWhlTqj7yZW5metmg9plFly9coPQ=
+			MZkVTHMuZUlxiUpZFRjWpGaKrnCwpW/qj2T6HPatcws=
 			</data>
 		</dict>
 		<key>PlugIns/awesomeRNTests.xctest/awesomeRNTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pe+rnYLI1Y9a/frQ+YBJc4LBB94=
+			hUvynZLdKbyUzKneeF9MOf1aKaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			7nyLZUPy6jRuHQdtrdz7J63m/ByZtlqVu3Q6tBof51s=
+			Ed6CT3Qfj19xDEBfUO7m5nCdwHoyenqd84kEeyVfkz8=
 			</data>
 		</dict>
 	</dict>
