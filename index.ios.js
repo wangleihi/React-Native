@@ -10,7 +10,13 @@ import {
   StyleSheet,
   Text,
   View,
-  Image
+  Image,
+  Button,
+  Alert,
+  TouchableHighlight,
+  TouchableOpacity,
+  ActivityIndicator,
+  FlatList
 } from 'react-native';
 
 let welcome = "welcome to wanglei"
@@ -27,7 +33,44 @@ class Greeting extends Component {
 }
 
 export default class awesomeRN extends Component {
+  // _onPressButton() {
+  //   Alert.alert('You tapped the button!')
+  // }
+
+  constructor(props) {
+    super(props);
+    this.state={isLoading: true}
+  }
+
+  // 获取电影列表
+  getMovies () {
+  return fetch ('https://facebook.github.io/react-native/movies.json')
+  .then((response) => response.json())
+      .then((responseJson) => {
+
+        this.setState({
+          isLoading: false,
+          dataSource: responseJson.movies,
+        }, function(){
+
+        });
+
+      })
+      .catch((error) =>{
+        console.error(error);
+      });
+}
+
   render() {
+    // 展示loading
+    if(this.state.isLoading) {
+      return (
+        <View style={{flex:1, padding:20}}>
+        <ActivityIndicator></ActivityIndicator>
+        </View>
+      );
+    }
+
     return (
       // <View style={styles.container}>
       //   <Text style={styles.welcome}>
@@ -46,12 +89,39 @@ export default class awesomeRN extends Component {
       // <Image source={pic} style={styles.welcome}></Image>
 
       // 使用props
-      <view>
-        <Greeting desc='Rexxar' />
-      </view>
+
+      // 按钮使用
+      // <View style={styles.container}>
+      //   {/* <Button onPress={this._onPressButton}
+      //   title="fefef"
+      //   >
+      //   </Button> */}
+      //   <TouchableHighlight onPress={this._onPressButton} underlayColor="red">
+      //   <View style={styles.button}>
+      //   <Text>fwefwe</Text>
+      //   </View>
+      //   </TouchableHighlight>
+
+      //   <TouchableOpacity onPress={this._onPressButton}>
+      //     <View style={styles.button}>
+      //       <Text>TouchableOpacity</Text>
+      //     </View>
+      //   </TouchableOpacity>
+      // </View>
+
+      // 构造listView展示电影列表
+      <View style={{flex:1, padding:20}}>
+        <FlatList 
+        data={this.state.dataSource}
+        renderItem={({item}) => <Text>{item.title}, {item.releaseYear}</Text>}
+        keyExtractor={(item, index) => item.id}
+        ></FlatList>
+      </View>
     );
   }
 }
+
+
 
 const styles = StyleSheet.create({
   container: {
@@ -69,6 +139,12 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#333333',
     marginBottom: 5,
+  },
+  button: {
+    marginBottom: 30,
+    width: 260,
+    alignItems: 'center',
+    backgroundColor: '#2196F3'
   },
 });
 

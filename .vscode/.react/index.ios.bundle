@@ -1253,9 +1253,37 @@ var _react2 = babelHelpers.interopRequireDefault(_react);
 var _reactNative = require(12            ); // 12 = react-native
 
 var welcome = "welcome to wanglei";
+var pic = { uri: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg' };
 
-var awesomeRN = function (_Component) {
-  babelHelpers.inherits(awesomeRN, _Component);
+var Greeting = function (_Component) {
+  babelHelpers.inherits(Greeting, _Component);
+
+  function Greeting() {
+    babelHelpers.classCallCheck(this, Greeting);
+    return babelHelpers.possibleConstructorReturn(this, (Greeting.__proto__ || Object.getPrototypeOf(Greeting)).apply(this, arguments));
+  }
+
+  babelHelpers.createClass(Greeting, [{
+    key: 'render',
+    value: function render() {
+      return _react2.default.createElement(
+        _reactNative.Text,
+        {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 25
+          }
+        },
+        'hello ',
+        this.props.desc
+      );
+    }
+  }]);
+  return Greeting;
+}(_react.Component);
+
+var awesomeRN = function (_Component2) {
+  babelHelpers.inherits(awesomeRN, _Component2);
 
   function awesomeRN() {
     babelHelpers.classCallCheck(this, awesomeRN);
@@ -1266,14 +1294,20 @@ var awesomeRN = function (_Component) {
     key: 'render',
     value: function render() {
       return _react2.default.createElement(
-        _reactNative.Text,
+        'view',
         {
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 32
+            lineNumber: 51
           }
         },
-        'hello world!'
+        _react2.default.createElement(_reactNative.Button, { onPress: _reactNative.Alert.alert('my name is wanglei'),
+          title: 'come on fuck me',
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 52
+          }
+        })
       );
     }
   }]);
@@ -1291,9 +1325,8 @@ var styles = _reactNative.StyleSheet.create({
     backgroundColor: '#FFFFFF'
   },
   welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10
+    width: 200,
+    height: 200
   },
   instructions: {
     textAlign: 'center',
